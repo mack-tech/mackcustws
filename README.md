@@ -1,4 +1,8 @@
 # Mack Customers API Services
+<p align="center">
+    <img src="https://www.macktech.com/wp-content/uploads/2019/05/macktech-logo-blue-web.png" alt="Mack Technologies">
+</p>
+
 ### Documentation Holley API Service
 
 ### Endpoint Overview
