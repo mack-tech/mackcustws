@@ -105,5 +105,5 @@ In case of an error, the API may return different HTTP status codes along with a
 Make sure to handle these responses appropriately in your application.
 
 ### Support
-Feel free to reach out to us at JRZHelpDesk@macktech.com
+Feel free to reach out to us at https://www.macktech.com/juarez-mexico/
 
