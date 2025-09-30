@@ -49,7 +49,7 @@ This endpoint retrieves detailed information about a specific box identified by 
 
 - **Method**: GET
     
-- **URL**: `http://localhost:5262/api/Holley/boxes/{boxId}`
+- **URL**: `https://jrzcusws.macktech.com:10443/api/Holley/boxes/{boxId}`
     
 - **Path Parameter**:
     
