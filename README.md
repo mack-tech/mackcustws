@@ -13,7 +13,7 @@ This endpoint retrieves information about a specific box identified by its uniqu
 
 - **Method**: GET
     
-- **URL**: `https://jrzcusws.macktech.com:10443/api/Holley/boxes/{boxId}`
+- **URL**: `https://jrzcusws.macktech.com/api/Holley/boxes/{boxId}`
     
 - **Path Parameter**:
     
@@ -49,7 +49,7 @@ This endpoint retrieves detailed information about a specific box identified by 
 
 - **Method**: GET
     
-- **URL**: `https://jrzcusws.macktech.com:10443/api/Holley/boxes/{boxId}`
+- **URL**: `https://jrzcusws.macktech.com/api/Holley/boxes/{boxId}`
     
 - **Path Parameter**:
     
